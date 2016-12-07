@@ -1,8 +1,8 @@
 Set-ExecutionPolicy Unrestricted
 cls
-##################################
+#################################
 # Model
-class User{
+class User{    
 
     [string]$Name
 
